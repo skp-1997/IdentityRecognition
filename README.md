@@ -1,7 +1,7 @@
 
 
 # IdentityRecognition
-Identifies the people by matching their faces with the existing faces in the database
+Identifies the people by matching their faces with the existing faces in the database using DeepFace library and MongoDB as a database
 
 ![conversions_65088c906bfe9800252eb806_conversion_V4](https://github.com/skp-1997/IdentityRecognition/assets/97504177/fcc628c9-c78a-49fc-8d5c-6d8aa85cda23)
 

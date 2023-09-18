@@ -15,5 +15,5 @@ To check whether training has been properly done, send API request using PostMan
 # To get results on the video file / Camera, run 
 
 ```
-python main.py
+python livestream.py
 ```

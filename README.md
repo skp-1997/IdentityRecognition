@@ -3,6 +3,17 @@
 # IdentityRecognition
 Identifies the people by matching their faces with the existing faces in the database
 
+# Running the setup
+
+Run the face detection API
+
+```
+python detectFace.py
+```
+Run the training API
+```
+python trainFaceAPI.py
+```
 
 # Training new faces
 

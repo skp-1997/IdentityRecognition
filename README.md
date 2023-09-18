@@ -37,7 +37,7 @@ To check whether training has been properly done, send API request using PostMan
 ```
 python livestream.py
 ```
-Provide the path of the input video file or use '0' to run on machine camera.
+Provide the path of the input video file or use '0' to run on machine camera in .env file
 
 
 

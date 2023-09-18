@@ -3,6 +3,9 @@
 # IdentityRecognition
 Identifies the people by matching their faces with the existing faces in the database
 
+![conversions_65088c906bfe9800252eb806_conversion_V4](https://github.com/skp-1997/IdentityRecognition/assets/97504177/fcc628c9-c78a-49fc-8d5c-6d8aa85cda23)
+
+
 # Running the setup
 
 Run the face detection API
@@ -33,12 +36,8 @@ To check whether training has been properly done, send API request using PostMan
 python livestream.py
 ```
 
-# Results on video file 
 
 
-
-
-https://github.com/skp-1997/IdentityRecognition/assets/97504177/111ce14b-5eaa-4ae4-a69c-30fdbf411058
 
 
 

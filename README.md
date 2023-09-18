@@ -18,6 +18,8 @@ Run the training API
 python trainFaceAPI.py
 ```
 
+Make sure you provided correct metadata in .env file
+
 # Training new faces
 
 For training faces, use PostMan for sending request to training API.
